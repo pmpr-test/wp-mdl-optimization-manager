@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66fa77020c770             |
+    |             66fa77bc3b3dd             |
     |_______________________________________|
 */
- namespace Pmpr\Module\OptimizationManager\Admin; use Pmpr\Common\Foundation\Page\Admin\Page; class Customer extends Page { const wuowaiyouwecckaw = "\157\160\164\x69\x6d\x69\x7a\x61\164\x69\157\x6e\137\x63\165\163\x74\157\x6d\145\x72\x73"; public function __construct() { $wksoawcgagcgoask = $this->akuociswqmoigkas(); $this->args = ["\160\x61\162\x65\x6e\164\x5f\163\x6c\165\x67" => $wksoawcgagcgoask, "\x70\x61\x67\x65\137\x74\x69\x74\x6c\x65" => __("\x43\165\163\164\x6f\155\145\x72\163", PR__MDL__OPTIMIZATION_MANAGER), "\155\145\156\165\137\x73\154\x75\x67" => self::wuowaiyouwecckaw, "\x70\157\163\151\x74\x69\x6f\x6e" => 0]; parent::__construct(); } public function suicksywcwiggasc() { $this->listTable = new CustomerList(); $this->waeasakssissiuqg()->prepare_items(); parent::suicksywcwiggasc(); } }
+ namespace Pmpr\Module\OptimizationManager\Admin; use Pmpr\Common\Foundation\Page\Admin\Page; class Customer extends Page { const wuowaiyouwecckaw = "\x6f\160\164\151\x6d\x69\172\141\x74\x69\157\x6e\137\x63\x75\x73\x74\x6f\x6d\145\162\x73"; public function __construct() { $wksoawcgagcgoask = $this->akuociswqmoigkas(); $this->args = ["\x70\141\x72\x65\x6e\164\137\163\x6c\x75\x67" => $wksoawcgagcgoask, "\x70\x61\147\x65\x5f\x74\151\x74\154\x65" => __("\x43\165\x73\x74\157\x6d\x65\162\163", PR__MDL__OPTIMIZATION_MANAGER), "\x6d\145\x6e\x75\x5f\163\x6c\x75\147" => self::wuowaiyouwecckaw, "\x70\x6f\x73\151\164\151\x6f\156" => 0]; parent::__construct(); } public function suicksywcwiggasc() { $this->listTable = new CustomerList(); $this->waeasakssissiuqg()->prepare_items(); parent::suicksywcwiggasc(); } }
