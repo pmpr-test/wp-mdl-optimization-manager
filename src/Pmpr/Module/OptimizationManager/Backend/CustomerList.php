@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             670d893887a06             |
+    |             670d9805680db             |
     |_______________________________________|
 */
  namespace Pmpr\Module\OptimizationManager\Backend; use Pmpr\Common\Cover\Woocommerce\ListTable\ProductCustomer; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Module\OptimizationManager\Setting; class CustomerList extends ProductCustomer { public function __construct($ywmkwiwkosakssii = []) { $this->product = Setting::symcgieuakksimmu()->giiuwsmyumqwwiyq(Constants::oguseymmyyoyaako, 0); parent::__construct($ywmkwiwkosakssii); } }
