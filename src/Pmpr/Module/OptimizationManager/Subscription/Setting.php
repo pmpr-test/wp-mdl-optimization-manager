@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6801770cd111c             |
+    |             68cc7038a9b1d             |
     |_______________________________________|
 */
  namespace Pmpr\Module\OptimizationManager\Subscription; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Common\Subscription\Setting as BaseClass; use Pmpr\Module\OptimizationManager\Subscription\Traits\EngineTrait; class Setting extends BaseClass { use EngineTrait; public function qiccuiwooiquycsg() { parent::qiccuiwooiquycsg(); $this->id .= '_sub'; $this->hasLicense = false; $this->title = __('Subscription Setting', PR__MDL__OPTIMIZATION_MANAGER); $this->igiywquyccyiaucw(Constants::ysgwugcqguggmigq, __('Optimization Manager Subscription Setting', PR__MDL__OPTIMIZATION_MANAGER)); } }
